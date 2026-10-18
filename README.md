@@ -23,5 +23,6 @@ Vyno is a high-performance Discord music bot built for stability and clean audio
 - `/botprofile` - Set custom server avatar and banner for Vyno.
 - `/247` - Toggle 24/7 voice channel persistence.
 - `/settings` - Configure audio and server-specific preferences.
+![Uploading vynologo1-1.png…]()
 
 For the full list of commands and options, visit [vyno.onl/commands](https://vyno.onl/commands).
