@@ -6,7 +6,7 @@ Vyno is a high-performance Discord music bot built for stability and clean audio
 
 - **Add Vyno to Server:** https://discord.com/oauth2/authorize?client_id=1400594651609829498
 - **Official Support Server:** https://discord.gg/hJ7E6eQX3A
-- **Full Commands List:** https://vyno.onl/commands
+- **Full Commands List:** https://vynobot.com/commands
 
 ## Key Features
 
@@ -25,4 +25,4 @@ Vyno is a high-performance Discord music bot built for stability and clean audio
 - `/settings` - Configure audio and server-specific preferences.
 
 
-For the full list of commands and options, visit [vyno.onl/commands](https://vyno.onl/commands).
+For the full list of commands and options, visit [vyno.onl/commands](https://vynobot.com/commands).
